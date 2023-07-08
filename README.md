@@ -9,7 +9,7 @@
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisma&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisma&langs_count=2)
 
 <!--
 **Guisma/Guisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
